@@ -1,0 +1,257 @@
+[
+    {
+        "id": 0,
+        "name": "Meat Lovers",
+        "category": "Signature",
+        "ingredient": [
+            "Pepperoni",
+            "Ham",
+            "Italian Sausage",
+            "Seef",
+            "Topping",
+            "Bacon"
+        ],
+        "price": {
+            "M": 10,
+            "L": 15
+        }
+    },
+    {
+        "id": 1,
+        "name": "Extravaganza",
+        "category": "Signature",
+        "ingredient": [
+            "Pepperoni",
+            "Italian Sausage",
+            "Beef Cube"
+        ],
+        "price": {
+            "M": 10,
+            "L": 15
+        }
+    },
+    {
+        "id": 2,
+        "name": "Prime Beef",
+        "category": "Signature",
+        "ingredient": [
+            "Meatball",
+            "Mexico Beef"
+        ],
+        "price": {
+            "M": 10,
+            "L": 15
+        }
+    },
+    {
+        "id": 3,
+        "name": "Singapore Seafood",
+        "category": "Signature",
+        "ingredient": [
+            "Shrimp",
+            "Singapore Style Chili Sauce",
+            "New Crab Meat"
+        ],
+        "price": {
+            "M": 10,
+            "L": 15
+        }
+    },
+    {
+        "id": 4,
+        "name": "Almond Critus Seafood",
+        "category": "Signature",
+        "ingredient": [
+            "Shrimp",
+            "Scallop",
+            "Almond"
+        ],
+        "price": {
+            "M": 10,
+            "L": 15
+        }
+    },
+    {
+        "id": 5,
+        "name": "Tuna",
+        "category": "Premium",
+        "ingredient": [
+            "Tuna",
+            "Mayonnaise Sauce",
+            "Onion",
+            "Green Pepper"
+        ],
+        "price": {
+            "S": 4,
+            "M": 7.5,
+            "L": 12
+        }
+    },
+    {
+        "id": 6,
+        "name": "Ocean Mania + Cheesy Chicken Bacon",
+        "category": "Premium",
+        "ingredient": [
+            "Shrimp",
+            "Chicken",
+            "Bacon",
+            "Mozzarella Cheese"
+        ],
+        "price": {
+            "S": 4,
+            "M": 7.5,
+            "L": 12
+        }
+    },
+    {
+        "id": 7,
+        "name": "Teriyaki Chicken",
+        "category": "Premium",
+        "ingredient": [
+            "Mushroom",
+            "Chicken",
+            "Teriyaki Sauce"
+        ],
+        "price": {
+            "S": 4,
+            "M": 7.5,
+            "L": 12
+        }
+    },
+    {
+        "id": 8,
+        "name": "Pepperoni Feast",
+        "category": "Premium",
+        "ingredient": [
+            "Mozzarella Cheese",
+            "Pizza Sauce",
+            "Pepperoni"
+        ],
+        "price": {
+            "S": 4,
+            "M": 7.5,
+            "L": 12
+        }
+    },
+    {
+        "id": 9,
+        "name": "Surf & Turf",
+        "category": "Premium",
+        "ingredient": [
+            "Shrimp",
+            "Mexico Beef"
+        ],
+        "price": {
+            "S": 4,
+            "M": 7.5,
+            "L": 12
+        }
+    },
+    {
+        "id": 10,
+        "name": "Seafood Delight",
+        "category": "Premium",
+        "ingredient": [
+            "Shrimp",
+            "Squid",
+            "Crab Meat",
+            "Pizza Sauce"
+        ],
+        "price": {
+            "S": 4,
+            "M": 7.5,
+            "L": 12
+        }
+    },
+    {
+        "id": 11,
+        "name": "Ocean Mania",
+        "category": "Premium",
+        "ingredient": [
+            "Shrimp",
+            "Squid",
+            "Crab Meat",
+            "Basil",
+            "Mayonnaise Sauce"
+        ],
+        "price": {
+            "S": 4,
+            "M": 7.5,
+            "L": 12
+        }
+    },
+    {
+        "id": 12,
+        "name": "Cheesy Chicken Bacon",
+        "category": "Favorite",
+        "ingredient": [
+            "Bacon",
+            "Chicken",
+            "Cheese Sauce"
+        ],
+        "price": {
+            "S": 3,
+            "M": 6.5,
+            "L": 9.5
+        }
+    },
+    {
+        "id": 13,
+        "name": "Cheese Mania",
+        "category": "Favorite",
+        "ingredient": [
+            "Pizza Sauce",
+            "Mozzarella Cheese"
+        ],
+        "price": {
+            "S": 3,
+            "M": 6.5,
+            "L": 9.5
+        }
+    },
+    {
+        "id": 14,
+        "name": "Hawaiian",
+        "category": "Favorite",
+        "ingredient": [
+            "Pineapple",
+            "Ham"
+        ],
+        "price": {
+            "S": 3,
+            "M": 6.5,
+            "L": 9.5
+        }
+    },
+    {
+        "id": 15,
+        "name": "Kid Mania",
+        "category": "Favorite",
+        "ingredient": [
+            "Bacon",
+            "Corn",
+            "Quail Egg"
+        ],
+        "price": {
+            "S": 3,
+            "M": 6.5,
+            "L": 9.5
+        }
+    },
+    {
+        "id": 16,
+        "name": "Veggie Mania",
+        "category": "Favorite",
+        "ingredient": [
+            "Pineapple",
+            "Olive",
+            "Mushroom",
+            "Tomato"
+        ],
+        "price": {
+            "S": 3,
+            "M": 6.5,
+            "L": 9.5
+        }
+    }
+]

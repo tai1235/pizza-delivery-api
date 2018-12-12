@@ -174,7 +174,7 @@ Acceptable method: POST, GET, PUT, DELETE
 ## /checkout
 Acceptable method: POST
 ### POST
-**Confirm order and check out. This will call the Stripe API to charge specified user's card which included in payload and send email to user using Mailgun API if the payment has been success. Only user with privilege can pay for their order.**
+**Confirm order and check out. This will call the Stripe API to charge specified user's card which included in payload and send email to user using Mailgun API if the payment has been success. `paid` member in order's object will set to true after a successful checkout. Only user with privilege can pay for their order.**
 - **Required data:** `id`, `stripeToken`
 - **Optional data:** none
 - `token` - must be included in the request's header.
@@ -185,3 +185,4 @@ Acceptable method: POST
     - `400` - Order has already been paid
     - `400` - Invalid token
     - `500` - Error from stripe call
+    - `500` - Could not update order
